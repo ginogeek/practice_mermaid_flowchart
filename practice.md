@@ -1,3 +1,4 @@
+```mermaid
 graph TD;
     A[Google スライドのフローチャート] --> B{Mermaid コードへ変換？};
     B -- はい --> C[手動でコードを記述];
